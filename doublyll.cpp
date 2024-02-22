@@ -67,4 +67,5 @@ int main(){
 	insertAtHead(4);print();reverseprint();
 	insertAtTail(6);print();reverseprint();
 	insertAtHead(8);print();reverseprint();
+	insertAtHead(1);
 }
