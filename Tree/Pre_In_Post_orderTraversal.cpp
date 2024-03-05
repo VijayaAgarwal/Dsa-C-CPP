@@ -57,10 +57,10 @@ int main(){
     root=insert(root,23);
     root=insert(root,54);
     root=insert(root,48);
-    cout<<"Pre order : ";
+    cout<<"Preorder : ";
     preorder(root);
-    cout<<endl<<"In order : ";
+    cout<<endl<<"Inorder : ";
     inorder(root);
-    cout<<endl<<"Post order : ";
+    cout<<endl<<"Postorder : ";
     postorder(root);
 }
