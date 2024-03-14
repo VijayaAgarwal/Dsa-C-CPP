@@ -1,4 +1,4 @@
-//insertion sort on array
+//Bubble sort on array
 #include<bits/stdc++.h>
 using namespace std;
 #define max_size 100
