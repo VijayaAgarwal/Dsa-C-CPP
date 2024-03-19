@@ -1,4 +1,4 @@
-//insertion sort on array
+//quick sort on array
 #include<bits/stdc++.h>
 using namespace std;
 #define max_size 100
