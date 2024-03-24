@@ -1,4 +1,4 @@
-//merge sort
+//merge sort implementation
 #include<bits/stdc++.h>
 using namespace std;
 #define max 10
